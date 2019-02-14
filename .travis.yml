@@ -13,7 +13,8 @@ addons:
       - google-chrome-stable
     sonarcloud:
       organization: "worriedhugo-github"
-      token: 509d7414fc54e9f5af2543e4c6a25a9368530b52
+      token:
+        secure: 509d7414fc54e9f5af2543e4c6a25a9368530b52
 
 jdk:
   - oraclejdk8
